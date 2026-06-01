@@ -19,4 +19,4 @@ PowerShell History
 ⬇️ Installed Applications
 
 
-Web | https://bit.ly/LGSC98
+Web | [https://bit.ly/LGSC98](https://eitan743583.github.io/LGSC-Scanner/)
