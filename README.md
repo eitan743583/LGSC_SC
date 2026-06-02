@@ -61,7 +61,7 @@ A: Scanner reads Windows registry and history — antivirus may flag it as suspi
 A: No — each license is tied to one PC
 
 **Q: How do I get support?**
-A: Join our [Discord](https://discord.gg/7nRWvGRWER).
+A: Join our [Discord](https://discord.gg/84R9as5pAW).
 
 ---
 
@@ -82,6 +82,6 @@ A: Join our [Discord](https://discord.gg/7nRWvGRWER).
 
 <div align="center">
 
-**Made with ⚡ | [Join Discord](https://discord.gg/7nRWvGRWER)**
+**[Join Discord](https://discord.gg/84R9as5pAW)**
 
 </div>
