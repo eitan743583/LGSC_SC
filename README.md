@@ -8,7 +8,7 @@
 
 **Scan your full execution history — even deleted files.**
 
-[⬇ Download](#download) • [💬 Discord](https://discord.gg/7nRWvGRWER) • [📋 Features](#features)
+[⬇ Download](#download) • [💬 Discord](https://discord.gg/7nRWvGRWER) • [📋 WEB](https://eitan743583.github.io/LGSC-Scanner/)
 
 </div>
 
