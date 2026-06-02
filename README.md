@@ -34,18 +34,17 @@
 
 1. Download `Scanner.exe` from [Releases](../../releases/latest)
 2. Run as Administrator
-3. Enter your activation code
-4. Start scanning!
+3. Start using!
 
 ---
 
 ------------------------------------------------------------------
 
-1. Join our [Discord Server](https://discord.gg/7nRWvGRWER)
+1. Join our [Discord Server](https://discord.gg/84R9as5pAW)
 
 ---
 
-## 🖥 System Requirements
+## 🖥 Requirements
 
 - Windows 10 / 11 (64-bit)
 - Internet connection
