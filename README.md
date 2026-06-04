@@ -32,7 +32,7 @@
 
 > **Requires:** Windows 10/11 64-bit
 
-1. Download `Scanner.exe` from [Releases](../../releases/latest)
+1. Download `LGSC.exe` from [Releases](../../releases/latest)
 2. Run as Administrator
 3. Start using!
 
