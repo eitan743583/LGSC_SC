@@ -82,6 +82,6 @@ A: Join our [Discord](https://discord.gg/84R9as5pAW).
 
 <div align="center">
 
-**[Join Discord](https://discord.gg/84R9as5pAW)** **[Download](https://github.com/eitan743583/LGSC_SC/releases/download/v1%2C.1/LGSC.exe)** 
+**[Join Discord](https://discord.gg/84R9as5pAW)**     **[Download](https://github.com/eitan743583/LGSC_SC/releases/download/v1%2C.1/LGSC.exe)** 
 
 </div>
