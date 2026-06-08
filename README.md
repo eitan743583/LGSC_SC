@@ -9,7 +9,7 @@
 
 **Scan your full execution history — even deleted files.**
 
-[📋Releases](https://github.com/eitan743583/LGSC_SC/releases) • [💬 Discord](https://discord.gg/7nRWvGRWER) • [📋 WEB](https://smokey2922.github.io/LGSC-Scanner/) [⬇ Download ZIP](https://github.com/Smokey2922/LGSC_SC/releases/download/v1.1/Scanner.zip) • [⬇ Download EXE]([https://github.com/Smokey2922/LGSC_SC/releases/download/v1.1/Scanner.zip](https://github.com/Smokey2922/LGSC_SC/releases/download/v1.1/Scanner.exe)
+[📋Releases](https://github.com/eitan743583/LGSC_SC/releases) • [💬 Discord](https://discord.gg/7nRWvGRWER) • [📋 WEB](https://smokey2922.github.io/LGSC-Scanner/) [⬇ Download ZIP](https://github.com/Smokey2922/LGSC_SC/releases/download/v1.1/Scanner.zip) • [⬇ Download EXE]([https://github.com/Smokey2922/LGSC_SC/releases/download/v1.1/Scanner.exe)
 
 </div>
 
