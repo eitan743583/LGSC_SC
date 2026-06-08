@@ -7,7 +7,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
-**Scan your full execution history — even deleted files.**
+**LGSC - File Scanner**
 
 [📋Releases](https://github.com/eitan743583/LGSC_SC/releases) • [💬 Discord](https://discord.gg/7nRWvGRWER) • [📋 WEB](https://smokey2922.github.io/LGSC-Scanner/) • [⬇ Download](https://github.com/Smokey2922/LGSC_SC/releases/download/v1.0/Scanner.7z)
 
