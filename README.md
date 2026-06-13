@@ -40,7 +40,7 @@
 
 ------------------------------------------------------------------
 
-1. Join our [Discord Server](https://discord.gg/84R9as5pAW)
+ Join our [Discord Server](https://discord.gg/84R9as5pAW)
 
 ---
 
