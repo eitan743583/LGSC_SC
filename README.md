@@ -65,12 +65,6 @@ A: Join our [Discord](https://discord.gg/84R9as5pAW).
 
 ---
 
-## 📋 Scanned Sources
-
-`UserAssist` `BAM` `MUICache` `Prefetch` `Uninstall Keys` `Run Keys` `Recent Files` `PS History`
-
----
-
 ## ⚠️ Terms of Service
 
 1. License is tied to one PC — not transferable without approval
